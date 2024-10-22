@@ -38,5 +38,3 @@ const searchPokemon = async () => {
     console.error(error.messsage);
   }
 };
-
-// console.log(searchPokemon(8));
